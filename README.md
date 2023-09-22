@@ -35,7 +35,7 @@ A Library Management System  allows you to keep the Library book records. This P
 ### 1. Login Module
    ![1](https://github.com/JatinChaudhary0319/Library-Management-System/assets/137517499/bd3fb8d1-bdf7-4ca2-a2d2-e0780dd7bd95)
    <p><b>Username:</b> JatinChaudhary0319
-   <br><b>Password:</b>87654321</p>
+   <br><b>Password:</b> 87654321</p>
    <div align="right">
     <b><a href="#">↥ back to top</a></b>
    </div>
