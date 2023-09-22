@@ -19,7 +19,7 @@
 					</td>
           <td width="25%" align="center">
 						<span><strong>WAMP</strong></span><br/>
-						<img height="64px" width="64px" src="[https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png](https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1024px-XAMPP_logo.svg.png)">
+						<img height="64px" width="64px" src="https://en.wikipedia.org/wiki/XAMPP#/media/File:XAMPP_logo.svg">
 					</td>
 				</tr>
 			</tbody>
