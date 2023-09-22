@@ -18,8 +18,8 @@
 						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
 					</td>
           <td width="25%" align="center">
-						<span><strong>WAMP</strong></span><br/>
-						<img height="64px" width="64px" src="https://en.wikipedia.org/wiki/XAMPP#/media/File:XAMPP_logo.svg">
+						<span><strong>XAMPP</strong></span><br/>
+						<img height="64px" width="64px" src="https://amnssl.com/wp-content/uploads/2020/11/1200px-XAMPP_logo.svg-min.png">
 					</td>
 				</tr>
 			</tbody>
