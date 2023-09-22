@@ -33,13 +33,15 @@ A Library Management System  allows you to keep the Library book records. This P
 ## Available Modules:
 
 1. Login Module
+   ![1](https://github.com/JatinChaudhary0319/Library-Management-System/assets/137517499/bd3fb8d1-bdf7-4ca2-a2d2-e0780dd7bd95)
+
 2. Available Books
-3. Add Books
-4. Remove Books
-5. Staff Details
-6. Add Staff
-7. Remove Staff
-8. Update Admin
+4. Add Books
+5. Remove Books
+6. Staff Details
+7. Add Staff
+8. Remove Staff
+9. Update Admin
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
