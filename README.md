@@ -19,7 +19,7 @@
 					</td>
           <td width="25%" align="center">
 						<span><strong>WAMP</strong></span><br/>
-						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/WampServer-logo.svg">
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/XamppServer-logo.svg">
 					</td>
 				</tr>
 			</tbody>
