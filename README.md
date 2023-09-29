@@ -86,10 +86,10 @@ A Library Management System  allows you to keep the Library book records. This P
 <b><a href="#">↥ back to top</a></b>
 </div>
 
-# If you like my project hit the star 🌟 button
-
 ### 9. Update Admin
 ![9](https://github.com/JatinChaudhary0319/Library-Management-System/assets/137517499/23cd8de0-3c6d-4d7c-b1bc-0dda0d7d6e4c)
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
+# If you like my project hit the star 🌟 button
